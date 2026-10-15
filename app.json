@@ -1,0 +1,33 @@
+{
+  "id": "28ec2d2f-61be-4e3c-aa27-3910e0ce9a38",
+  "name": "MobiAcBarcode",
+  "publisher": "ECHO Motorgeräte Vertrieb Deutschland GmbH",
+  "version": "1.0.0.0",
+  "brief": "Barcode generation in pure AL: Data Matrix, Code 128 and QR Code as SVG or BMP.",
+  "description": "Pure AL barcode generation for Business Central: Data Matrix, Code 128 and QR Code as SVG or BMP, without .NET, web services or barcode fonts. Part of the MobiAc app, published under the Apache License 2.0. Customization is offered through integration events.",
+  "privacyStatement": "https://www.echo-pro.de/datenschutz",
+  "EULA": "https://github.com/mobiac-world/MobiAcBarcode/blob/main/LICENSE",
+  "help": "https://github.com/mobiac-world/MobiAcBarcode/blob/main/README.md",
+  "url": "https://github.com/mobiac-world/MobiAcBarcode",
+  "logo": "images/mobiac_logo.png",
+  "dependencies": [],
+  "screenshots": ["images/demo_page.png", "images/generated_barcode_result.png"],
+  "platform": "27.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50046,
+      "to": 50103
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "Cloud"
+}

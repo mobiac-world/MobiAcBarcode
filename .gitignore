@@ -1,0 +1,7 @@
+/.alpackages
+.vscode/.alcache/*
+.vscode/rad.json
+.snapshots/
+*.app
+
+images/Native_Barcode_Generation.psd
